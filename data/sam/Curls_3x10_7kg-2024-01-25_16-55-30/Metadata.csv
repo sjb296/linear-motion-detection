@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-A105F,1706201730947,2024-01-25_16-55-30,Europe/London,android,1.27.1,7b37c314-183e-4e68-b98b-aff3afa5a5d3,Accelerometer|Annotation|TotalAcceleration|AccelerometerUncalibrated,10||10|10
