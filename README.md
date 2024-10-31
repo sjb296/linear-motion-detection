@@ -4,3 +4,19 @@ This was my 3rd year dissertation at Exeter University. I worked closely with my
 linear motion detection with only the accelerometer on my phone (no gyroscope!) and two dumbbells.
 
 Tech used: **Python · Numpy · Pandas · Jupyter**
+
+# Installation
+
+## Linux (Debian-based)
+
+To run any of the notebooks yourself, follow the process detailed below.
+
+```bash
+$ python3 -m venv .venv
+
+$ source .venv/bin/activate
+
+$ pip3 install .
+
+$ jupyter notebook
+```
