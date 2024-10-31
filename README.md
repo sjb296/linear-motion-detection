@@ -5,7 +5,7 @@ linear motion detection with only the accelerometer on my phone (no gyroscope!) 
 
 Tech used: **Python · Numpy · Pandas · Jupyter**
 
-# Installation
+# Installing it yourself
 
 ## Linux (Debian-based)
 
