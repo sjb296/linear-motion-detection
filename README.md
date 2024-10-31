@@ -5,6 +5,8 @@ linear motion detection with only the accelerometer on my phone (no gyroscope!) 
 
 Tech used: **Python · Numpy · Pandas · Jupyter**
 
+**[Check out the showcase notebook at nbviewer.org!](https://nbviewer.org/github/sjb296/linear-motion-detection/blob/master/showcase.ipynb#inter-experiment-comparison)**
+
 # Installing it yourself
 
 ## Linux (Debian-based)
