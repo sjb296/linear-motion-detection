@@ -5,7 +5,7 @@ linear motion detection (as in, motion with no rotation) with only the accelerom
 
 Tech used: **Python · Numpy · Pandas · Jupyter**
 
-**[Check out the showcase notebook at nbviewer.org!](https://nbviewer.org/github/sjb296/linear-motion-detection/blob/master/showcase.ipynb#inter-experiment-comparison)**
+**[Check out the showcase notebook!](https://github.com/sjb296/linear-motion-detection/blob/master/showcase.ipynb)**
 
 # Installing it yourself
 
